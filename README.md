@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **nothing :)**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lucedrop#5591**
 
