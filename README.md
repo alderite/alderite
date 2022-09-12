@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/alderite" alt="Profile Forks"></a>
 
 
-- 🔭 I’m currently working on **a 1.12.2 hack client (maybe 👀**
+- 🔭 I’m currently working on a **1.12.2 hack client (maybe) 👀**
 
 - 🌱 I’m currently learning **Java**
 
