@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/alderite" alt="Profile Forks"></a>
 
 
-- 🔭 I’m currently working on a **Gui Based Server Nuker**
+- 🔭 I’m currently working on a **Remote Access Tool (RAT)**
 
-- 🌱 I’m currently learning **Discord.py**
+- 🌱 I’m currently learning **tcp & udp protocals**
 
 - 📫 How to reach me **lucedrop#5591**
 
