@@ -16,7 +16,7 @@
 - 📫 How to reach me **lucedrop#5591**
 
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alderite&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="alderite" /> </p>
-🌐・**Website: [https://alderite.github.io](https://alderite.github.io)**
+
 
 <img src="https://discord.c99.nl/widget/theme-1/679482307161489431.png"/>
 
